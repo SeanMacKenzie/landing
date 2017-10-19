@@ -30,3 +30,8 @@ body{
 .fa{
     color: black;   
 }
+.navbar{
+    background-color: white;
+    display: inline-block; 
+    border: 0px;   
+}
