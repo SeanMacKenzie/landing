@@ -1,0 +1,32 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    margin: 0;
+    height: 100vh;
+}
+.alpha{
+    height: 1em;
+    background: #922818;
+}
+.beta{
+    height: 5em;
+    background-color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+}
+.gamma{
+    height: 2em;
+    background: #922818;
+}
+.jumbotron{
+    height: 45em;
+    background: #19926A;
+
+}
+.logo{
+    height: 4em;
+    width: 5em;
+}
+.fa{
+    color: black;   
+}
