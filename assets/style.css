@@ -19,10 +19,13 @@ body{
     background: #922818;
 }
 .jumbotron{
+    background-image: url(https://scontent-ort2-1.xx.fbcdn.net/v/t31.0-8/22499284_10210256669036379_8912271307224711982_o.jpg?oh=d3ea1614ae4499befcabef97de595a45&oe=5A76BBB6);
     height: 45em;
-    background: #19926A;
-
 }
+.zeta{
+    height: 500px;
+}   
+
 .logo{
     height: 4em;
     width: 5em;
