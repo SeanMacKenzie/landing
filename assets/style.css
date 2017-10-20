@@ -2,39 +2,55 @@ body{
     font-family: 'Quicksand', sans-serif;
     margin: 0;
     height: 100vh;
+    padding: 0;
+    color: black;
+    background-image: url(http://www.transparenttextures.com/patterns/subtle-freckles.png);
+    background-color: grey;
+    
 }
+
 .alpha{
     height: 1em;
-    background: #922818;
+    
 }
 .beta{
     height: 5em;
-    background-color: white;
     padding-top: 1%;
     padding-bottom: 1%;
+   
     
 }
 .gamma{
     height: 2em;
-    background: #922818;
+    
 }
 .jumbotron{
-    background-image: url(https://scontent-ort2-1.xx.fbcdn.net/v/t31.0-8/22499284_10210256669036379_8912271307224711982_o.jpg?oh=d3ea1614ae4499befcabef97de595a45&oe=5A76BBB6);
+    background-image: url(https://images.unsplash.com/photo-1502339380875-a75dc1c56364?w=1934);
     height: 45em;
+    background-size: cover;
+    text-align: right;
 }
+
+.epsil{
+    background-color: white;
+}
+
 .zeta{
-    height: 500px;
+    height: 25em;
+    background-color: white;    
 }   
 
 .logo{
     height: 4em;
     width: 5em;
+        
 }
 .fa{
     color: black;   
 }
 .navbar{
-    background-color: white;
+    background-color: transparent;
     display: inline-block; 
-    border: 0px;   
+    border: 0px;  
+    
 }
