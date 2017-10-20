@@ -1,13 +1,16 @@
 body{
-    font-family: 'Quicksand', sans-serif;
+      
     margin: 0;
     height: 100vh;
     padding: 0;
     color: black;
     background-image: url(http://www.transparenttextures.com/patterns/subtle-freckles.png);
-    background-color: grey;
-    
+    background-color: #925218;
+    font-size: medium;   
 }
+    
+    
+    
 
 .alpha{
     height: 1em;
@@ -27,6 +30,7 @@ body{
 .jumbotron{
     background-image: url(https://images.unsplash.com/photo-1502339380875-a75dc1c56364?w=1934);
     height: 45em;
+    
     background-size: cover;
     text-align: right;
 }
@@ -39,6 +43,9 @@ body{
     height: 25em;
     background-color: white;    
 }   
+.theta{
+    padding: 4%;
+}
 
 .logo{
     height: 4em;
