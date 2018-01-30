@@ -53,7 +53,7 @@ body{
 }
 
 .zeta{
-    height: 25em;
+    min-height: 25em;
     background-color: white;    
 }   
 .theta{
